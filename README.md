@@ -1,6 +1,6 @@
 # Análisis de Supervivencia del Titanic con Machine Learning
 
-Este proyecto final de Ciencia de Datos analiza el famoso conjunto de datos del RMS Titanic. El objetivo principal es determinar qué factores demográficos y socioeconómicos influyeron más en la probabilidad de supervivencia de los pasajeros, utilizando técnicas de análisis exploratorio y modelos de aprendizaje automático (Machine Learning).
+Este proyecto final de Data Science I analiza el famoso conjunto de datos del Titanic. El objetivo principal es determinar qué factores demográficos y socioeconómicos influyeron más en la probabilidad de supervivencia de los pasajeros, utilizando técnicas de análisis exploratorio y modelos de aprendizaje automático (Machine Learning).
 
 ## 📄 Descripción del Proyecto
 
